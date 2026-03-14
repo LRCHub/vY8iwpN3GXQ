@@ -2,15 +2,31 @@
   "version": 1,
   "base_track": "のだ",
   "base_artist": "大漠波新",
-  "createdAt": "2026-02-14T09:49:35.096441Z",
+  "createdAt": "2026-03-14T15:55:22.082904Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
       "title": "のだ",
       "artist": "大漠波新",
+      "has_synced": true,
+      "path": "select/01_のだ_大漠波新.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "のだ",
+      "artist": "大漠波新",
       "has_synced": false,
-      "path": "select/01_のだ_大漠波新.txt"
+      "path": "select/02_のだ_大漠波新.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "のだ / ずんだもん・初音ミク・重音テト",
+      "artist": "大漠波新",
+      "has_synced": true,
+      "path": "select/03_のだ___ずんだもん・初音ミク・重音テト_大漠波新.lrc"
     },
     {
       "id": "petitlyrics_1",
